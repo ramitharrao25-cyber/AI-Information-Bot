@@ -1,4 +1,4 @@
-AI Galaxy Bot 
+## AI Galaxy Bot 
 
 AI Galaxy Bot is an Artificial Intelligence mini-project developed using Python. The application provides users with information related to any topic entered in the search box. It features a futuristic galaxy-themed graphical user interface with animated stars, search history management, and real-time information retrieval.
 
